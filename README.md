@@ -207,11 +207,7 @@
   <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph" />
 </p>
 
-<h2 align="center">🐍 Contribution Journey</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ajithcse28/Ajithcse28/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
-</p>
 
 ---
 

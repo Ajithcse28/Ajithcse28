@@ -2,7 +2,7 @@
 
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Ajithkumar%20K&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20%26%20AI%20Engineer&descSize=22&descAlignY=60&animation=fadeIn&color=0:0f2027,50:203a43,100:2c5364" width="100%" alt="Ajithkumar K Header" />
+  <img src=""type=waving&height=230&text=Ajithkumar%20K&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20%26%20AI%20Engineer&descSize=22&descAlignY=60&animation=fadeIn&color=0:0f2027,50:203a43,100:2c5364" width="100%" alt="Ajithkumar K Header" />
 </p>
 
 <p align="center">

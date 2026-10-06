@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=%3CAjithkumar%20K%20%2F%3E&fontSize=38&fontColor=00f5d4&fontAlignY=45&desc=Software%20Developer%20%7C%20Full%20Stack%20%26%20AI%20Engineer&descSize=15&descAlignY=72&animation=fadeIn" width="100%" alt="Ajithkumar K Header" />
   <img src="Ajithkumar_CSE_A-2022-2026.jpg"type=waving&height=230&text=Ajithkumar%20K&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20%26%20AI%20Engineer&descSize=22&descAlignY=60&animation=fadeIn&color=0:0f2027,50:203a43,100:2c5364" width="100%" alt="Ajithkumar K Header" />
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&height=45&lines=%3E+print(%22Hello%2C+I'm+Ajithkumar%22);Full+Stack+%26+AI+Engineer;Python+%7C+LLMs+%7C+React" alt="Typing SVG" />
+</p>
 </p>
 
 <p align="center">

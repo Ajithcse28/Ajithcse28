@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/Ajithcse28/Ajithcse28/main/Ajithkumar_CSE_A-2022-2026.jpg&w=300&h=300&fit=cover&a=top" width="140" height="140" alt="Ajithkumar K" />
 </p>
-</p>
+</p> <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&height=45&lines=%3E+print(%22Hello%2C+I'm+Ajithkumar%22);Full+Stack+%26+AI+Engineer;Python+%7C+LLMs+%7C+React" alt="Typing SVG" />
 </p>
 </p>

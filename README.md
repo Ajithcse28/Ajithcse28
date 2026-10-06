@@ -42,6 +42,13 @@
   and intelligent systems with AI/ML, GenAI, LLMs and RAG, aimed at practical, real-world problems.
 </p>
 
+<h2 align="center">🐍 Contribution Journey</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ajithcse28/Ajithcse28/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+</p>
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open_to_Work-22C55E?style=flat-square" alt="Status" />
   <img src="https://img.shields.io/badge/Degree-B.E._Computer_Science-0EA5E9?style=flat-square" alt="Degree" />
